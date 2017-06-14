@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-send</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-4" transform="translate(-886.000000, -540.000000)" fill="#3AA451">
+            <g id="Group-7">
+                <g id="Group-Copy-2">
+                    <g id="Group" transform="translate(412.000000, 248.000000)">
+                        <g id="Group-13" transform="translate(90.000000, 181.000000)">
+                            <g id="Group-12" transform="translate(0.000000, 96.000000)">
+                                <polygon id="btn-send" points="384 33 405 24 384 15 384 22 399 24 384 26"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

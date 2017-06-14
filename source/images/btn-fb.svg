@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-4" transform="translate(-661.000000, -429.000000)">
+            <g id="Group-7">
+                <g id="Group-Copy-2">
+                    <g id="Group" transform="translate(412.000000, 248.000000)">
+                        <g id="Group-13" transform="translate(90.000000, 181.000000)">
+                            <g id="Group-10" transform="translate(91.000000, 0.000000)">
+                                <g id="btn-fb" transform="translate(68.000000, 0.000000)">
+                                    <ellipse id="Oval-12-Copy-5" fill="#FFFFFF" cx="24" cy="24" rx="24" ry="24"></ellipse>
+                                    <g id="facebook-3-copy" transform="translate(18.500000, 12.500000)" fill="#4460A0">
+                                        <g id="Capa_1">
+                                            <path d="M7.497,24 L3,24 L3,12 L1.77635684e-15,12 L1.77635684e-15,7.86445313 L3,7.86309375 L2.995125,5.42671875 C2.995125,2.05284375 3.90998438,0 7.8841875,0 L11.193,0 L11.193,4.13634375 L9.12510938,4.13634375 C7.57748438,4.13634375 7.50304688,4.71421875 7.50304688,5.793 L7.49690625,7.86309375 L11.21625,7.86309375 L10.7777813,11.9986406 L7.5,12 L7.497,24 L7.497,24 Z" id="Shape"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

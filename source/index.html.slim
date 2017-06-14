@@ -1,0 +1,94 @@
+---
+title: Seminary Hill Cider
+---
+
+nav#menu
+  li data-menuanchor="firstPage" 
+    a href="#firstPage" Vision
+  li data-menuanchor="secondPage" 
+    a href="#secondPage" Mission
+  li data-menuanchor="3rdPage" 
+    a href="#3rdPage" Who we are
+  li data-menuanchor="4thpage" 
+    a href="#4thpage" Stay tuned
+
+
+#fullpage
+  / Slide 1
+  .section.bordered.overlayed#section1 
+    .content
+      .container
+        h1 
+          | Seminary
+          br
+          |	Hill
+          br
+          | Cider
+
+    .scroll-down
+      p scroll down to learn more
+      =image_tag('chev.svg', class:'animated bounce')
+
+  / Slide 2
+  .section.bordered.overlayed.centered#section2 data-anchor="firstPage"
+    .content
+      .container
+        h1 The Vision
+        p To be one of New York’s premier holistic integrated orchard-based cideries
+
+  / Slide 3
+  .section.bordered.centered.overlayed#section3 data-anchor="secondPage"
+    .mobile-overlay
+    .content
+      .container
+        .text-block
+          h1 The Mission
+          p Seminary Hill Cider aims to connect connect place, process and craft with the consumer- bringing the hyper-local experience together, to be enjoyed throughout the seasons, connecting stunning landscape, human endeavor, and enjoyment  through a glass.
+
+  / Slide 4
+  .section.bordered#section4 data-anchor="3rdPage"
+    .slide#slide1.active
+      .container
+        h1 Our Story
+        =image_tag('upd/4-2a.jpg', class:'border')
+        p.text-block Seminary Hill Cider aims to connect connect place, process and craft with the consumer- bringing the hyper-local experience together, to be enjoyed throughout the seasons, connecting stunning landscape, human endeavor, and enjoyment  through a glass. Seminary Hill Cider aims to connect connect place, process and craft with the consumer- bringing the hyper-local experience together, to be enjoyed throughout the seasons, connecting stunning landscape, human endeavor, and enjoyment  through a glass.    
+    .slide#slide2
+      .container
+        h1 Our Cidery
+        p Designed by James Hartford of River Architects, the facility is based on  Passive Haus principles.
+        p From the tasting room right above the cider production facility, guests can sample various ciders while looking over the orchard and down to the   Delaware River Valley. We will also host educational gatherings, parties and weddings.
+        p Cider paired small plates will be served made from a wide range of local agricultural products (cheese, honey, maple syrup, sausage, pickles, etc..) as well as being a place that would support local musicians - Friday night happy hours, etc...
+    .slide#slide3
+      .container
+        h1 Our Orchard
+        p Rather than relay on customary pesticides & herbicides, the orchard relies on sustainable multi layer planting process using floral, root and  fungal ground coverings.
+        p We will be a model for holistic planting, focused on long term sustainability: a showplace for  Sullivan County
+        p We expect to host seminars, classes and gatherings for orchard enthusiasts and holistic farmers bringing attention to Sullivan County’s   organic agro-business potential
+
+  / Slide 5
+  .section.bordered.centered#section5 data-anchor="4thPage"
+    .content
+      .container
+        .holder
+          h1 Stay tuned
+          p Follow us on social networks. You can also subscribe for our news.
+          .socicals
+            a href="#"
+              =image_tag('btn-instagram.svg')
+            a href="#"
+              =image_tag('btn-fb.svg')
+            a href="#"
+              =image_tag('btn-twitter.svg')
+            a href="#"
+              =image_tag('btn-youtube.svg')
+              
+        / form.subscribe
+          / / input[type="email"], :placeholder()
+          / <input type="email" placeholder="Your Email...">
+          / button[type="submit"]
+        form.subscribe action="https://formspree.io/reuben.doetsch@gmail.com" method="POST"
+          input type="email" name="_replyto" placeholder="Your Email..."
+          button type="submit" value=""                  
+  
+    .copy
+      COPYRIGHT © 2017 SEMINARY HILL CIDER COMPANY. ALL RIGHTS RESERVED.        
