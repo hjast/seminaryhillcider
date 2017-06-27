@@ -231,8 +231,16 @@ nav {
   }
 }
 
-#section2{
+#section2 {
   background-image: image-url('bg/2.jpg');
+}
+
+#section3 {
+  background-image: image-url('bg/3.jpg');
+}
+
+#section2,
+#section3 {
 
   h1 {
     font-size: 80px;
@@ -248,32 +256,30 @@ nav {
   }
 }
 
-#section3 {
-  background-image: image-url('bg/3.jpg');
 
-  h1 {
-    font-size: 80px;
-    line-height: 108px;
-    margin-bottom: 30px;
-    color: #000;
-  }
-
-  p {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    line-height: 40px;
-  }
-
-  .text-block {
-    background: #fff;
-    padding: 60px;
-    font-size: 16px;
-    line-height: 32px;
-    position: relative;
-    max-width: 600px;
-    text-align: left;
-  }
-}
+//   h1 {
+//     font-size: 80px;
+//     line-height: 108px;
+//     margin-bottom: 30px;
+//     color: #000;
+//   }
+//
+//   p {
+//     font-family: 'Open Sans', sans-serif;
+//     font-size: 20px;
+//     line-height: 40px;
+//   }
+//
+//   .text-block {
+//     background: #fff;
+//     padding: 60px;
+//     font-size: 16px;
+//     line-height: 32px;
+//     position: relative;
+//     max-width: 600px;
+//     text-align: left;
+//   }
+// }
 
 #section4{
   background-image: image-url('04_bg.jpg');
